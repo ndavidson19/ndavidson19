@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 
 -------
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/nicholasdavidson01/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:ndavidson19@ucla.edu"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+
+</p>
+
