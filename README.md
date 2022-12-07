@@ -20,24 +20,24 @@
               _______________________________________________                                                                             
             /                                                \
            |    _________________________________________     |
-           |   |                                         |    |          __________________   __________________
-           |   |  C:\> Hello World!                      |    |       .-/|                  \ /    2023 Grad     |\-.
-           |   |  C:\> I am a software engineer, data    |    |       ||||                   |       ~~~~~~      ||||
-           |   |  scientist, and AI Researcher           |    |       ||||                   |     Coursework    ||||                 
-           |   |  C:\> python main.py                    |    |       ||||                   | - Linear Algebra  ||||
-           |   |  Epoch 1 100%|██████████████| 100/100   |    |       ||||       UCLA        | - Probility       ||||
-           |   |  Epoch 2 100%|██████████████| 100/100   |    |       ||||    --==**==--     | - Computational   ||||
-           |   |  Epoch 3 100%|██████████████| 100/100   |    |       ||||    Data Theory    |   Statistics      ||||
-           |   |  Epoch 4 100%|██████████████| 100/100   |    |       ||||                   | - Optimization    ||||
-           |   |  Epoch 5 100%|██████████████| 100/100   |    |       ||||                   | - Machine Learning||||
-           |   |  ^C                                     |    |       ||||                   | - Python for Data ||||
-           |   |  Traceback (most recent call last):     |    |       ||||                   |   Science         ||||
-           |   |  /ndavidson19/readme/main.py, line 1    |    |       ||||                   | - Societal Impacts||||
-           |   |  Keyboard Interupt                      |    |       ||||                   |  of Data          ||||
-           |   |  C:\> _                                 |    |       ||||                   | - Data Modeling   ||||
-           |   |                                         |    |       ||||__________________ | __________________||||
-           |   |_________________________________________|    |       ||/===================\|/===================\||
-           |                                                  |       `--------------------~___~-------------------''
+           |   |                                         |    |         __________________   __________________
+           |   |  C:\> Hello World!                      |    |      .-/|                  \ /    2023 Grad     |\-.
+           |   |  C:\> I am a software engineer, data    |    |      ||||                   |       ~~~~~~      ||||
+           |   |  scientist, and AI Researcher           |    |      ||||                   |     Coursework    ||||                 
+           |   |  C:\> python main.py                    |    |      ||||                   | - Linear Algebra  ||||
+           |   |  Epoch 1 100%|██████████████| 100/100   |    |      ||||       UCLA        | - Probility       ||||
+           |   |  Epoch 2 100%|██████████████| 100/100   |    |      ||||    --==**==--     | - Computational   ||||
+           |   |  Epoch 3 100%|██████████████| 100/100   |    |      ||||    Data Theory    |   Statistics      ||||
+           |   |  Epoch 4 100%|██████████████| 100/100   |    |      ||||                   | - Optimization    ||||
+           |   |  Epoch 5 100%|██████████████| 100/100   |    |      ||||                   | - Machine Learning||||
+           |   |  ^C                                     |    |      ||||                   | - Python for Data ||||
+           |   |  Traceback (most recent call last):     |    |      ||||                   |   Science         ||||
+           |   |  /ndavidson19/readme/main.py, line 1    |    |      ||||                   | - Societal Impacts||||
+           |   |  Keyboard Interupt                      |    |      ||||                   |  of Data          ||||
+           |   |  C:\> _                                 |    |      ||||                   | - Data Modeling   ||||
+           |   |                                         |    |      ||||__________________ | __________________||||
+           |   |_________________________________________|    |      ||/===================\|/===================\||
+           |                                                  |      `--------------------~___~-------------------''
             \_________________________________________________/
                    \___________________________________/
                 ___________________________________________
