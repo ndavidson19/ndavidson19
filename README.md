@@ -1,7 +1,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/ndavidson19/ndavidson19.svg?cache=remove)
 ### Hi there 👋
 
-
+```
              ________________________________________________
             /                                                \
            |    _________________________________________     |
@@ -30,6 +30,8 @@
  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
+
+```
 
 <!--
 **ndavidson19/ndavidson19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
