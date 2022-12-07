@@ -2,16 +2,17 @@
 ### Hi there 👋
 
 
-    /                                                \
+             ________________________________________________
+            /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  C:\> Hello World!_                     |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
+           |   |  ndavidson ~ % Hello World!             |    |
+           |   |  ndavidson ~ % I am a software engineer |    |
+           |   |  and data scientist                     |    |
+           |   |  ndavidson ~ % Passionate about fields  |    |
+           |   |  of AI and machine learning in tech and |    |
+           |   |  finance                                |    |
+           |   |  ndavidson ~ % python main.py_          |    |
            |   |                                         |    |
            |   |                                         |    |
            |   |                                         |    |
@@ -29,7 +30,6 @@
  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
-
 
 <!--
 **ndavidson19/ndavidson19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
