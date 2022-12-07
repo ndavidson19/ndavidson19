@@ -1,3 +1,4 @@
+![ViewCount](https://views.whatilearened.today/views/github/ndavidson19/ndavidson19.svg?cache=remove)
 ### Hi there 👋
 
 <!--
