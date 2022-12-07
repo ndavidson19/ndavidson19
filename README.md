@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My skills include
 
-<p align="left">
-	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-</p>
 
    
 ![Nicholas Davidson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndavidson19&hide=["stars"]&show_icons=true)
