@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit of stats
   
-<iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
+
    
 ![Nicholas Davidson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndavidson19&hide=["stars"]&show_icons=true)
 
