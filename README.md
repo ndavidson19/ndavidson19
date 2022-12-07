@@ -6,17 +6,20 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  ndavidson ~ % Hello World!             |    |
-           |   |  ndavidson ~ % I am a software engineer |    |
-           |   |  and data scientist                     |    |
-           |   |  ndavidson ~ % Passionate about fields  |    |
-           |   |  of AI and machine learning in tech and |    |
-           |   |  finance                                |    |
-           |   |  ndavidson ~ % python main.py_          |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
+           |   |  C:\> Hello World!                      |    |
+           |   |  C:\> I am a software engineer, data    |    |
+           |   |  scientist, and AI Researcher           |    |
+           |   |  C:\> python main.py                    |    |
+           |   |  Epoch 1 100%|██████████████| 100/100   |    |
+           |   |  Epoch 2 100%|██████████████| 100/100   |    |
+           |   |  Epoch 3 100%|██████████████| 100/100   |    |
+           |   |  Epoch 4 100%|██████████████| 100/100   |    |
+           |   |  Epoch 5 100%|██████████████| 100/100   |    |
+           |   |  ^C                                     |    |
+           |   |  Traceback (most recent call last):     |    |
+           |   |  /ndavidson19/readme/main.py, line 1    |    |
+           |   |  Keyboard Interupt                      |    |
+           |   |  C:\> _                                 |    |
            |   |                                         |    |
            |   |_________________________________________|    |
            |                                                  |
