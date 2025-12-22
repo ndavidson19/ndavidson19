@@ -1,6 +1,9 @@
 <!-- Typing Animation Header -->
+<div align="right">
+  <img src="https://views.whatilearened.today/views/github/ndavidson19/ndavidson19.svg?cache=remove" width="150px" alt="View Count">
+</div>
 <div align="center">
-  <h2>Hi, I'm Nicholas</h2>
+  <h2>Hey 👋 !</h2>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Forward+Deployed+Engineer+@+Palantir;UCLA+Data+Theory+(Math+%26+Stats);" alt="Typing SVG" />
   </a>
@@ -38,7 +41,3 @@ My work focuses on demystifying AI infrastructure for network engineering and op
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://views.whatilearened.today/views/github/ndavidson19/ndavidson19.svg?cache=remove" width="150px" alt="View Count">
-</div>
