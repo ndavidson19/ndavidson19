@@ -3,9 +3,8 @@
   <img src="https://views.whatilearened.today/views/github/ndavidson19/ndavidson19.svg?cache=remove" width="150px" alt="View Count">
 </div>
 <div align="center">
-  <h2>Hey 👋 !</h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Forward+Deployed+Engineer+@+Palantir;UCLA+Data+Theory+(Math+%26+Stats);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Forward+Deployed+Engineer+@+Palantir;Software+Engineer+@+Cisco;UCLA+Data+Theory+(Math+%26+Stats);" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +23,7 @@ My work focuses on demystifying AI infrastructure for network engineering and op
 
 *   **Publication:** [Deployment of Small LLMs on Consumer-Grade Hardware for Edge Comp](https://www.tdcommons.org/dpubs_series/7086/)
     *   *Published in TdCommons (2024)*
-*   **Speaker:** [Co-Presenter at AI Field Day 5](https://www.techfieldday.com/event/aifd5/)
+*   **Speaker:** [Co-Presenter at AI Field Day 5](https://www.youtube.com/watch?v=p3KCLZpOFZE)
     *   *Topic: Demystifying AI/ML Infrastructure*
 
 ---
