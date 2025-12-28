@@ -13,7 +13,7 @@
 <!-- Professional Bio -->
 I am a **Forward Deployed Engineer at Palantir Technologies** developing mission-critical technologies. My background lies at the intersection of theoretical mathematics and production engineering. I graduated from **UCLA** with a degree in **Data Theory**, a specialized program combining higher-level Mathematics and Statistics.
 
-Currently, I architect solutions using **TypeScript, Java, Python, and Rust**. Previously, I spent two years as a Software Engineer at **Cisco**, building distributed web services with **Golang** and **React**, while leading research into the deployment of Small Language Models (SLMs) on edge hardware.
+Currently, I write software professionally in **TypeScript, Java, Python, and Rust**. Previously, I spent two years as a Software Engineer at **Cisco**, building distributed web services with **Golang** and **React**, while leading research into the deployment of Small Language Models (SLMs) on edge hardware.
 
 ---
 
@@ -28,15 +28,5 @@ My work focuses on demystifying AI infrastructure for network engineering and op
 
 ---
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndavidson19&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndavidson19&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
-  </a>
-</div>
 
 <br/>
