@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Professional Bio -->
-I am a **Forward Deployed Engineer at Palantir Technologies** developing mission-critical technologies. My background lies at the intersection of theoretical mathematics and production engineering. I graduated from **UCLA** with a degree in **Data Theory**, a specialized program combining higher-level Mathematics and Statistics.
+I currently work as a **Forward Deployed Software Engineer at Palantir Technologies** developing mission-critical technologies. I graduated from **UCLA** with a degree in [Data Theory](https://www.youtube.com/watch?v=AvW-YjKaaaE), a specialized program combining higher-level Mathematics and Statistics.
 
-Currently, I write software professionally in **TypeScript, Java, Python, and Rust**. Previously, I spent two years as a Software Engineer at **Cisco**, building distributed web services with **Golang** and **React**, while leading research into the deployment of Small Language Models (SLMs) on edge hardware.
+I write software professionally in **TypeScript, Rust, Python, Golang and Java**. Previously, I spent two years as a Software Engineer at Cisco, building distributed web services with Golang and React, while leading research into the deployment of Small Language Models (SLMs) on edge hardware.
 
 ---
 
